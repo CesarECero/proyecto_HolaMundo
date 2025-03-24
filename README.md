@@ -28,4 +28,4 @@ Resumen de los pasos:
   Colocar la imagen en la misma carpeta que el archivo PHP.
   Abrir el navegador y acceder a la URL correcta para visualizar el contenido.
 
-#### Cesar Escalante, cesar.escalante@galileo.edu.25001695
+#### Cesar Escalante, cesar.escalante@galileo.edu   carnet:25001695
